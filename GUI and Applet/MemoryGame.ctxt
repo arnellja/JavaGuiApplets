@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=values\ str
+comment0.target=MemoryGame(char[],\ java.lang.String)
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=char[]\ createValuesArray()
+comment3.params=temp
+comment3.target=int\ createValuesAux(char[])
+comment4.params=temp\ one
+comment4.target=int\ createValuesAux(char[],\ int)
+comment5.params=
+comment5.target=void\ addGuess()
+comment6.params=
+comment6.target=javax.swing.JTextField[]\ getTextFields()
+comment7.params=
+comment7.target=javax.swing.JButton[]\ getButtons()
+comment8.params=
+comment8.target=char[]\ getValues()
+comment9.params=
+comment9.target=void\ reset()
+numComments=10
